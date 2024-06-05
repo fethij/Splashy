@@ -38,7 +38,7 @@ An Unsplash based wallpaper app built with Compose Multiplatform and KMP for And
 
 <img src="/assets/screenshots/ios/Screenshot_2.png" width="260">&emsp;<img src="/assets/screenshots/ios/Screenshot_4.png" width="260">&emsp;<img src="/assets/screenshots/ios/Screenshot_6.png" width="260">
 
-## :gear: Build
+## Build :gear:
 
 The app uses Unsplash API, hence you need to get your own API key from [here](https://unsplash.com/documentation).
 In order to sign your builds generate `splashy.jks` keystore and add keystore password, alias and store password in `secrets.properties`.
